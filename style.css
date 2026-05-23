@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: chocolate;
+    border:5px solid black;
+    padding:20px;
+}
+.head{
+    color:darkblue;
+}
+.orange{
+    color:chocolate;
+}
+#bglime{
+    background-color: limegreen;
+}
+p{
+    color:lightcyan;
+    font-size:28px;
+    font-weight:bold;
+}
+#para{
+    color:green;
+}
+.black{
+    color:black;
+}
+a{
+    color:lightcyan;
+    font-size:22px;
+    text-decoration:none;
+}
+a:hover{
+    color:yellow;
+}
+ol li:nth-child(2){
+    color:blue;
+}
+ol li:nth-child(3){
+    color:red;
+}
