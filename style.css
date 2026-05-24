@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: chocolate;
+    border: 5px solid black;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: limegreen;
+}
+
+h2 .orange {
+    color: red;
+}
+
+p {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+#para {
+    color: green;
+}
+
+.black {
+    color: black;
+}
+
+a {
+    
+    font-size: 22px;
+    text-decoration: none;
+}
+a:hover {
+    color: yellow;
+}
+#a1{
+    background-color: yellow;
+}
+#a2{
+    background-color:blueviolet;
+}
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
